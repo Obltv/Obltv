@@ -68,4 +68,11 @@
 
 ### 📊 Language Stats
 
-[![Obltv's GitHub stats](https://github-stats-extended.vercel.app/api?username=Obltv)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Obltv&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=520&size_weight=0.5&count_weight=0.5)](https://github.com/stats-organization/github-stats-extended)
+
+<br />
+<br />
+
+### ⏱️ WakaTime Stats
+
+[![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Obltv&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@Obltv)
