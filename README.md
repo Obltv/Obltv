@@ -1,4 +1,4 @@
-![Obltv](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0ea5e9,100:22c55e&text=Obltv&fontColor=ffffff&fontSize=86&fontAlignY=38&desc=Backend%20%7C%20AI%20%7C%20Architecture&descAlignY=58&animation=fadeIn)
+![Obltv](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0ea5e9,45:22c55e,100:f59e0b&text=Obltv&fontColor=ffffff&fontSize=86&fontAlignY=38&desc=Backend%20%7C%20AI%20%7C%20Architecture&descAlignY=58&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=800&color=38BDF8&vCenter=true&width=760&lines=%E6%AD%A3%E5%9C%A8%E7%97%9B%E9%AA%82codex%F0%9F%A4%AC)](https://git.io/typing-svg)
 
@@ -6,7 +6,21 @@
 <br />
 
 <a href="https://www.obltv.top">
-  <img src="https://img.shields.io/badge/🌐_Personal_Website-www.obltv.top-0ea5e9?style=for-the-badge&labelColor=020617&color=22c55e" alt="Personal Website" />
+  <table>
+    <tr>
+      <td width="72" align="center">
+        <img src="https://img.shields.io/badge/WEB-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
+      </td>
+      <td>
+        <strong>PERSONAL WEBSITE</strong>
+        <br />
+        <code>www.obltv.top</code>
+      </td>
+      <td width="64" align="center">
+        <strong>Visit →</strong>
+      </td>
+    </tr>
+  </table>
 </a>
 
 <br />
@@ -27,52 +41,45 @@
 
 #### 后端
 
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316)
-![Spring](https://img.shields.io/badge/Spring-111827?style=for-the-badge&logo=spring&logoColor=22C55E)
-![Maven](https://img.shields.io/badge/Maven-111827?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
-![Nginx](https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639)
-![Lua](https://img.shields.io/badge/Lua-111827?style=for-the-badge&logo=lua&logoColor=2C2D72)
+![Java](https://img.shields.io/badge/Java-F97316?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 #### 前端
 
-![HTML](https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css&logoColor=663399)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vue](https://img.shields.io/badge/Vue-111827?style=for-the-badge&logo=vuedotjs&logoColor=22C55E)
-![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Element Plus](https://img.shields.io/badge/Element_Plus-111827?style=for-the-badge&logo=element&logoColor=409EFF)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)
 
 #### 中间件
 
-![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=38BDF8)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=38BDF8)
-![Nacos](https://img.shields.io/badge/Nacos-111827?style=for-the-badge&logo=alibabacloud&logoColor=38BDF8)
-![Dynamic Thread Pool](https://img.shields.io/badge/Dynamic_Thread_Pool-111827?style=for-the-badge&logo=apache&logoColor=F97316)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nacos](https://img.shields.io/badge/Nacos-00A1E9?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Dynamic Thread Pool](https://img.shields.io/badge/Dynamic_Thread_Pool-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 #### 开发工具
 
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316)
-![Cursor](https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=FFFFFF)
-![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=10A37F)
-![Claude](https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-111827?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-7C3AED?style=for-the-badge&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FF3366?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 #### 操作系统
 
-![macOS](https://img.shields.io/badge/macOS-111827?style=for-the-badge&logo=apple&logoColor=FFFFFF)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![macOS](https://img.shields.io/badge/macOS-64748B?style=for-the-badge&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <br />
 <br />
 
-### 📊 Language Stats
+### 📈 Code Stats
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Obltv&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=520&size_weight=0.5&count_weight=0.5)](https://github.com/stats-organization/github-stats-extended)
-
-<br />
-<br />
-
-### ⏱️ WakaTime Stats
-
-[![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Obltv&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@Obltv)
+![Code Stats](./assets/code-stats.svg)
