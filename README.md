@@ -1,8 +1,6 @@
-<div align="center">
-
 ![Obltv](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0ea5e9,100:22c55e&text=Obltv&fontColor=ffffff&fontSize=86&fontAlignY=38&desc=Backend%20%7C%20AI%20%7C%20Architecture&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E5%90%8E%E7%AB%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=800&color=38BDF8&vCenter=true&width=760&lines=%E6%AD%A3%E5%9C%A8%E7%97%9B%E9%AA%82codex%F0%9F%A4%AC)](https://git.io/typing-svg)
 
 <br />
 <br />
@@ -70,6 +68,4 @@
 
 ### 📊 Language Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obltv&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=520&locale=cn" alt="Top Languages" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obltv&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=520" alt="Top Languages" />
