@@ -7,20 +7,32 @@
 
 <table>
   <tr>
-    <td width="520" bgcolor="#F8FAFC">
+    <td width="640" bgcolor="#0EA5E9" align="center">
+      <h2>
+        <a href="https://www.obltv.top">
+          <font color="#FFFFFF">Personal Website</font>
+        </a>
+      </h2>
+      <p>
+        <font color="#ECFEFF">Backend notes · AI experiments · architecture scraps</font>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="640" bgcolor="#F8FAFC" align="center">
+      <br />
       <h3>
-        <a href="https://www.obltv.top">🌐 Personal Website</a>
+        <code>www.obltv.top</code>
       </h3>
       <p>
         <strong>Obltv's digital garden</strong>
-        <br />
-        <code>www.obltv.top</code>
       </p>
-    </td>
-    <td width="120" align="center" bgcolor="#ECFEFF">
-      <a href="https://www.obltv.top">
-        <strong>Visit →</strong>
-      </a>
+      <p>
+        <a href="https://www.obltv.top">
+          <strong>Visit Website →</strong>
+        </a>
+      </p>
+      <br />
     </td>
   </tr>
 </table>
