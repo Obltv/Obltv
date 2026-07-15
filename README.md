@@ -5,23 +5,25 @@
 <br />
 <br />
 
-<a href="https://www.obltv.top">
-  <table>
-    <tr>
-      <td width="72" align="center">
-        <img src="https://img.shields.io/badge/WEB-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
-      </td>
-      <td>
-        <strong>PERSONAL WEBSITE</strong>
+<table>
+  <tr>
+    <td width="520" bgcolor="#F8FAFC">
+      <h3>
+        <a href="https://www.obltv.top">🌐 Personal Website</a>
+      </h3>
+      <p>
+        <strong>Obltv's digital garden</strong>
         <br />
         <code>www.obltv.top</code>
-      </td>
-      <td width="64" align="center">
+      </p>
+    </td>
+    <td width="120" align="center" bgcolor="#ECFEFF">
+      <a href="https://www.obltv.top">
         <strong>Visit →</strong>
-      </td>
-    </tr>
-  </table>
-</a>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
