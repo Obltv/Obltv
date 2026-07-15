@@ -1,41 +1,6 @@
-![Obltv](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0ea5e9,45:22c55e,100:f59e0b&text=Obltv&fontColor=ffffff&fontSize=86&fontAlignY=38&desc=Backend%20%7C%20AI%20%7C%20Architecture&descAlignY=58&animation=fadeIn)
+[![Obltv](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0ea5e9,45:22c55e,100:f59e0b&text=Obltv&fontColor=ffffff&fontSize=86&fontAlignY=38&desc=Backend%20%7C%20AI%20%7C%20Architecture&descAlignY=58&animation=fadeIn)](https://www.obltv.top)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=800&color=38BDF8&vCenter=true&width=760&lines=%E6%AD%A3%E5%9C%A8%E7%97%9B%E9%AA%82codex%F0%9F%A4%AC)](https://git.io/typing-svg)
-
-<br />
-<br />
-
-<table>
-  <tr>
-    <td width="640" bgcolor="#0EA5E9" align="center">
-      <h2>
-        <a href="https://www.obltv.top">
-          <font color="#FFFFFF">Personal Website</font>
-        </a>
-      </h2>
-      <p>
-        <font color="#ECFEFF">Backend notes · AI experiments · architecture scraps</font>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="640" bgcolor="#F8FAFC" align="center">
-      <br />
-      <h3>
-        <code>www.obltv.top</code>
-      </h3>
-      <p>
-        <strong>Obltv's digital garden</strong>
-      </p>
-      <p>
-        <a href="https://www.obltv.top">
-          <strong>Visit Website →</strong>
-        </a>
-      </p>
-      <br />
-    </td>
-  </tr>
-</table>
 
 <br />
 <br />
