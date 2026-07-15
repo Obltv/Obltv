@@ -68,4 +68,4 @@
 
 ### 📊 Language Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obltv&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=520" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obltv&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=520&size_weight=0.5&count_weight=0.5)
