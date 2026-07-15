@@ -68,5 +68,4 @@
 
 ### 📊 Language Stats
 
-![](./profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![](./profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+[![Obltv's GitHub stats](https://github-stats-extended.vercel.app/api?username=Obltv)](https://github.com/stats-organization/github-stats-extended)
