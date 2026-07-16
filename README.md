@@ -5,7 +5,7 @@
 <br />
 <br />
 
-### 👨‍💻 About Me
+### 🪬 About Me
 
 > 富婆姐姐必杀榜榜首
 
@@ -16,7 +16,7 @@
 
 <br />
 
-### 🛠️ Tech Stack
+### 🧩 Tech Stack
 
 #### 后端
 
@@ -45,20 +45,11 @@
 
 #### 开发工具
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-7C3AED?style=for-the-badge&logo=cursor&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FF3366?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-#### 操作系统
-
-![macOS](https://img.shields.io/badge/macOS-64748B?style=for-the-badge&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Toolbox](./assets/toolbox.svg)
 
 <br />
 <br />
 
-### 📈 Code Stats
+### 📟 Code Stats
 
 ![Code Stats](./assets/code-stats.svg)
