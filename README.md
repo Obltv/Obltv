@@ -59,4 +59,4 @@
 
 ### 🌌 3D Contribution
 
-![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution](./profile-3d-contrib/profile-gitblock.svg)
