@@ -4,34 +4,35 @@
   <rect x="1" y="1" width="518" height="290" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
   <text x="28" y="42" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" fill="#0F172A">Code Stats</text>
   <text x="28" y="66" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" fill="#64748B">Generated from public non-fork repositories</text>
-  <text x="30" y="96" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">Java</text>
-  <rect x="170" y="85" width="220" height="10" rx="5" fill="#E2E8F0"/>
-  <rect x="170" y="85" width="220" height="10" rx="5" fill="#0EA5E9"/>
-  <text x="410" y="96" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">8,860</text>
-  <text x="30" y="122" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">JSON</text>
-  <rect x="170" y="111" width="220" height="10" rx="5" fill="#E2E8F0"/>
-  <rect x="170" y="111" width="112" height="10" rx="5" fill="#22C55E"/>
-  <text x="410" y="122" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">4,501</text>
-  <text x="30" y="148" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">Markdown</text>
-  <rect x="170" y="137" width="220" height="10" rx="5" fill="#E2E8F0"/>
-  <rect x="170" y="137" width="62" height="10" rx="5" fill="#F59E0B"/>
-  <text x="410" y="148" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">2,505</text>
-  <text x="30" y="174" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">YAML</text>
-  <rect x="170" y="163" width="220" height="10" rx="5" fill="#E2E8F0"/>
-  <rect x="170" y="163" width="22" height="10" rx="5" fill="#F97316"/>
-  <text x="410" y="174" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">877</text>
-  <text x="30" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">Vuejs Component</text>
-  <rect x="170" y="189" width="220" height="10" rx="5" fill="#E2E8F0"/>
-  <rect x="170" y="189" width="8" height="10" rx="5" fill="#8B5CF6"/>
-  <text x="410" y="200" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">307</text>
-  <text x="30" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">Bourne Shell</text>
-  <rect x="170" y="215" width="220" height="10" rx="5" fill="#E2E8F0"/>
-  <rect x="170" y="215" width="5" height="10" rx="5" fill="#14B8A6"/>
-  <text x="410" y="226" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">185</text>
+  
+    <text x="30" y="96" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">Java</text>
+    <rect x="170" y="85" width="220" height="10" rx="5" fill="#E2E8F0"/>
+    <rect x="170" y="85" width="220" height="10" rx="5" fill="#0EA5E9"/>
+    <text x="410" y="96" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">8,860</text>
+    <text x="30" y="122" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">JSON</text>
+    <rect x="170" y="111" width="220" height="10" rx="5" fill="#E2E8F0"/>
+    <rect x="170" y="111" width="112" height="10" rx="5" fill="#22C55E"/>
+    <text x="410" y="122" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">4,501</text>
+    <text x="30" y="148" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">Markdown</text>
+    <rect x="170" y="137" width="220" height="10" rx="5" fill="#E2E8F0"/>
+    <rect x="170" y="137" width="62" height="10" rx="5" fill="#F59E0B"/>
+    <text x="410" y="148" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">2,502</text>
+    <text x="30" y="174" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">SVG</text>
+    <rect x="170" y="163" width="220" height="10" rx="5" fill="#E2E8F0"/>
+    <rect x="170" y="163" width="38" height="10" rx="5" fill="#F97316"/>
+    <text x="410" y="174" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">1,538</text>
+    <text x="30" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">YAML</text>
+    <rect x="170" y="189" width="220" height="10" rx="5" fill="#E2E8F0"/>
+    <rect x="170" y="189" width="23" height="10" rx="5" fill="#8B5CF6"/>
+    <text x="410" y="200" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">920</text>
+    <text x="30" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">Vuejs Component</text>
+    <rect x="170" y="215" width="220" height="10" rx="5" fill="#E2E8F0"/>
+    <rect x="170" y="215" width="8" height="10" rx="5" fill="#14B8A6"/>
+    <text x="410" y="226" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">307</text>
   <rect x="28" y="250" width="138" height="30" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
-  <text x="45" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0EA5E9">369 files</text>
+  <text x="45" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0EA5E9">382 files</text>
   <rect x="190" y="250" width="138" height="30" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
-  <text x="207" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#22C55E">17,764 code</text>
+  <text x="207" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#22C55E">19,454 code</text>
   <rect x="352" y="250" width="138" height="30" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
   <text x="369" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#F59E0B">15 langs</text>
 </svg>
