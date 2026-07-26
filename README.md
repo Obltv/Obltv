@@ -1,4 +1,4 @@
-[![Obltv](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0ea5e9,45:22c55e,100:f59e0b&text=Obltv&fontColor=ffffff&fontSize=86&fontAlignY=38&desc=Backend%20%7C%20AI%20%7C%20Architecture&descAlignY=58&animation=fadeIn)](https://www.obltv.top)
+[![Obltv](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0ea5e9,45:22c55e,100:f59e0b&text=Obltv&fontColor=ffffff&fontSize=86&fontAlignY=38&desc=Backend%20%7C%20AI%20%7C%20Architecture&descAlignY=58&animation=fadeIn)](https://obltv.top)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=800&color=38BDF8&vCenter=true&width=760&lines=%E6%AD%A3%E5%9C%A8%E7%97%9B%E9%AA%82codex%F0%9F%A4%AC)](https://git.io/typing-svg)
 
