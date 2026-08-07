@@ -24,7 +24,7 @@
     <text x="30" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">YAML</text>
     <rect x="170" y="189" width="220" height="10" rx="5" fill="#E2E8F0"/>
     <rect x="170" y="189" width="23" height="10" rx="5" fill="#8B5CF6"/>
-    <text x="410" y="200" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">920</text>
+    <text x="410" y="200" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">928</text>
     <text x="30" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">Vuejs Component</text>
     <rect x="170" y="215" width="220" height="10" rx="5" fill="#E2E8F0"/>
     <rect x="170" y="215" width="8" height="10" rx="5" fill="#14B8A6"/>
@@ -32,7 +32,7 @@
   <rect x="28" y="250" width="138" height="30" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
   <text x="45" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0EA5E9">382 files</text>
   <rect x="190" y="250" width="138" height="30" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
-  <text x="207" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#22C55E">19,454 code</text>
+  <text x="207" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#22C55E">19,462 code</text>
   <rect x="352" y="250" width="138" height="30" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
   <text x="369" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#F59E0B">15 langs</text>
 </svg>
