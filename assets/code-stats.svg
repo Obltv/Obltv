@@ -28,11 +28,11 @@
     <text x="30" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#334155">Vuejs Component</text>
     <rect x="170" y="215" width="220" height="10" rx="5" fill="#E2E8F0"/>
     <rect x="170" y="215" width="8" height="10" rx="5" fill="#14B8A6"/>
-    <text x="410" y="226" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">307</text>
+    <text x="410" y="226" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0F172A">309</text>
   <rect x="28" y="250" width="138" height="30" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
   <text x="45" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#0EA5E9">382 files</text>
   <rect x="190" y="250" width="138" height="30" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
-  <text x="207" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#22C55E">19,455 code</text>
+  <text x="207" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#22C55E">19,457 code</text>
   <rect x="352" y="250" width="138" height="30" rx="10" fill="#F8FAFC" stroke="#E2E8F0"/>
   <text x="369" y="270" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="800" fill="#F59E0B">15 langs</text>
 </svg>
